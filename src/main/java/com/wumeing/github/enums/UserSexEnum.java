@@ -1,4 +1,5 @@
 package com.wumeing.github.enums;
 
-public class UserSexEnum {
+public enum UserSexEnum {
+    MAN, WOMAN
 }
